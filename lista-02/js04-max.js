@@ -8,9 +8,8 @@
  */
 
 // Entrada
-var entrada = [1,1,40]
 
-var maior = 0
+var entrada = [1,50,40]
 
+console.log(Math.max.apply(null, entrada));
 
-console.log(maior)
